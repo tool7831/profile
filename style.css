@@ -1,0 +1,14 @@
+#infotable {
+    width: 100%;
+    text-align: left;
+    background-color: white;
+}
+
+th,
+td {
+    border: 1px solid;
+}
+
+.img {
+    border: 1px solid;
+}
